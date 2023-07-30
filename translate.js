@@ -31,5 +31,5 @@ btn.addEventListener("click", () => {
     });
 });
 function playSound(){
-    sound.playSound();
+    sound.play();
 }
